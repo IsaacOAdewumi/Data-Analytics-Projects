@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-**Isaac Olufemi Adewumi · September Cohort DAT**
+**Isaac Olufemi Adewumi · Quantum Analytics September 2023 - February 2024**
 
 A collection of 13 projects and 3 assignments spanning sales, public health, aviation, transport, energy and financial data.
 
